@@ -76,3 +76,4 @@ make -C verilator_sw/obj_dir -f Vstopwatch_top.mk Vstopwatch_top
 ./verilator_sw/obj_dir/Vstopwatch_top        
 (directly run if obj_dir folder in verilator_sw ->skip step 1 and 2)
 
+https://github.com/user-attachments/assets/aa259b4c-15da-4226-837b-21dc457b0054
